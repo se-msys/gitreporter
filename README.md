@@ -1,6 +1,6 @@
 GitReporter
 ===========
-This is a simple tool to track changes of a GIT repository. It's design purpose is to track changes of configurations of network appliances or Ansible setups and report changes to the resposible staff, but it may be used for other similar needs. 
+This is a simple tool to track changes of a GIT repository. It's design purpose is to track changes in  configurations of network appliances or Ansible setups, and report changes to the resposible staff.
 
 It supports censoring of sensitive data as IP-addresses or password-hashes, to avoid leakage in the untrusted zones such as public clouds or e-mail providers.
 
