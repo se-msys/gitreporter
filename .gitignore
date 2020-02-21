@@ -133,4 +133,5 @@ dmypy.json
 testrepo/
 tmp/
 *.html
+.DS_Store
 
