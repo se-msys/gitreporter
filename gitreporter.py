@@ -17,7 +17,7 @@ from datetime import date,datetime
 from subprocess import check_output,call
 
 # defs
-SETTINGS = 'SETTINGS'
+SETTINGS = 'settings'
 DIFF_LEN_REQUIRED = 10
 
 #
